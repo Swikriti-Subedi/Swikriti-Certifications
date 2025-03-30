@@ -12,4 +12,4 @@ A curated list of certifications I've completed in health informatics, data scie
 | **Data Management for Clinical Research**               | Coursera         | [View Certificate](https://coursera.org/verify/8ZM9B25L7FNG)      |
 | **Using Clinical Health Data for Better Healthcare**    | Coursera         | [View Certificate](https://coursera.org/verify/SP93VEKEY3XK)      |
 
-📌 *Last updated: March 2025* :)
+ *Last updated: March 2025* :)
